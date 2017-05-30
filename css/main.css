@@ -1,0 +1,85 @@
+body {
+	width: 960px;
+	margin: 0 auto;
+	font-family: 'Raleway', sans-serif;
+	background-image: url(../images/white_wall_hash.png);
+}
+
+/** HEADER **/
+
+header {
+	padding: 20px 0;
+}
+
+.logo {
+	margin-left: 20px;
+	display: inline;
+}
+
+.social-icons {
+	float: right;
+	color: #00796B;
+}
+
+nav {
+	display: block;
+	float: right;
+	margin-top: 30px;
+}
+
+nav li {
+	display: inline-block;
+}
+
+nav li a {
+	text-decoration: none;
+	padding-right: 10px;
+	color: #757575;
+}
+
+/** HERO AREA **/
+
+.hero {
+	overflow: hidden;
+	padding: 70px 0;
+}
+
+.left {
+	width: 49%;
+	display: inline-block;
+	text-align: center;
+}
+
+.right {
+	display: inline-block;
+	float: right;
+}
+
+.hero h2 {
+	color: #212121;
+	font-weight: 200;
+	font-size: ;
+	
+	text-align: center;
+}
+
+.hero img {
+	width: 75%;
+}
+
+/** USLUGE **/
+
+#usluge {
+	margin: 0 auto;
+	width: 75%;
+	text-align: center;
+	background-color: #fff;
+}
+
+#usluge h1 {
+	color: #757575;
+}
+
+#usluge hr {
+	width: 20%;
+}
